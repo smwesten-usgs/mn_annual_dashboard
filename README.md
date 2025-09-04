@@ -1,4 +1,4 @@
-# mn_seasonal_dashboard
+# mn_annual_dashboard
 Proof-of-concept Holoviews and panel dashboard for exploring annual CMIP6-driven SWB model output.
 
 Create a Python environment before running the script:
